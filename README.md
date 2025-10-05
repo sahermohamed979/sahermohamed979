@@ -70,7 +70,7 @@
 <h2 align="left">Contact Me</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/saher-mohamed-38693a172" target="_blank">
+  <a href="www.linkedin.com/in/‪saher-mohamed-38693a172" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://discord.com/users/saher3889" target="_blank">
