@@ -69,11 +69,11 @@
 
 <h2 align="left">Contact Me</h2>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/saher-mohamed-38693a172" target="_blank">
+
+  <a href="https://www.linkedin.com/in/sahermohamed979/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-</div>
+
 
 
 
