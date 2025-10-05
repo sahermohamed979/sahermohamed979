@@ -23,7 +23,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=saherbvcbc1vb.saherbvcbc1vb&" />
 </div>
 
----
 
 <h2 align="left">Tech Stack</h2>
 
