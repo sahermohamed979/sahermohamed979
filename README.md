@@ -58,12 +58,20 @@
 
 <h2 align="left">My Projects</h2>
 
-<ul> 
-  <li>📚 <a href="https://saherbvcbc1vb.github.io/Daniels/">Daniels</a> - Frontend projects with interactive UI components</li>
+<h3>💻 Web Projects</h3>
+<ul>
   <li>🌐 <a href="https://saherbvcbc1vb.github.io/DevFolio/">DevFolio</a> - My personal portfolio showcasing web projects and skills</li>
   <li>🍽️ <a href="https://saherbvcbc1vb.github.io/Mealify/">Mealify</a> - Recipe web app using React & TailwindCSS</li>
-  
+  <li>📚 <a href="https://saherbvcbc1vb.github.io/Daniels/">Daniels</a> - Frontend projects with interactive UI components</li>
 </ul>
+
+<h3>📱 Mobile Apps</h3>
+<ul>
+  <li>👟 <a href="http://github.com/sahermohamed979/nike-app">Nike App</a> - E-commerce mobile app for Nike products</li>
+  <li>🛒 <a href="https://github.com/sahermohamed979/store">Store</a> - Simple online store mobile app</li>
+  <li>☀️ <a href="https://github.com/sahermohamed979/weatherproject">Weather Project</a> - Mobile weather app using API integration</li>
+</ul>
+
 
 ---
 
