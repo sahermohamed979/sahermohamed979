@@ -13,13 +13,11 @@
 🎲 Fun Fact: I write code fueled by coffee ☕💻
 </p>
 
----
 
 <div>
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=soft&height=2&section=header&reversal=false&fontSize=54&fontColor=FFFFFF&fontAlign=60&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=10&theme=cobalt" />
 </div>
 
----
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=saherbvcbc1vb.saherbvcbc1vb&" />
