@@ -77,7 +77,7 @@
 <h3>💻 Web Projects</h3>
 <ul>
   <li>🌐 <a href="https://sahermohamed979.github.io/DevFolio/">DevFolio</a> - My personal portfolio showcasing web projects and skills</li>
-  <li>🍽️ <a href="https://saherbvcbc1vb.github.io/Mealify/">Mealify</a> - Recipe web app using React & TailwindCSS</li>
+  <li>🍽️ <a href="https://sahermohamed979.github.io/Mealify/">Mealify</a> - Recipe web app using React & TailwindCSS</li>
   <li>📚 <a href="https://sahermohamed979.github.io/Daniels/">Daniels</a> - Frontend projects with interactive UI components</li>
 </ul>
 
