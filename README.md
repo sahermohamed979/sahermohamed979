@@ -78,7 +78,7 @@
 <ul>
   <li>🌐 <a href="https://saherbvcbc1vb.github.io/DevFolio/">DevFolio</a> - My personal portfolio showcasing web projects and skills</li>
   <li>🍽️ <a href="https://saherbvcbc1vb.github.io/Mealify/">Mealify</a> - Recipe web app using React & TailwindCSS</li>
-  <li>📚 <a href="https://saherbvcbc1vb.github.io/Daniels/">Daniels</a> - Frontend projects with interactive UI components</li>
+  <li>📚 <a href="[https://saherbvcbc1vb.github.io/Daniels/](https://sahermohamed979.github.io/Daniels/)">Daniels</a> - Frontend projects with interactive UI components</li>
 </ul>
 
 <h3>📱 Mobile Apps</h3>
